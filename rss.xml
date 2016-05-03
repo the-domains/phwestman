@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PHWestman]]></title>
+        <description><![CDATA[PHWestman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 18:58:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Aspsele Västernorrlands län</p>]]></description>
+            <link>undefinedaspsele-vasternorrlands-lan/index.html</link>
+            <guid isPermaLink="false">1466f0ab-5d13-4205-a2e2-34a451ddf602</guid>
+            <pubDate>Tue, 03 May 2016 18:58:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
